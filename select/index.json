@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "永遠に続く日々の階段を",
+  "base_artist": "平井 大",
+  "createdAt": "2026-03-19T00:36:02.070194Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "永遠に続く日々の階段を - Towa ni tsuzuku hibi no kaidan wo",
+      "artist": "HIRAIDAI",
+      "has_synced": true,
+      "path": "select/01_永遠に続く日々の階段を_-_Towa_ni_tsuzuku_hibi_no_kaidan_wo_HIRAIDAI.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "永遠に続く日々の階段を",
+      "artist": "平井 大 HIRAIDAI",
+      "has_synced": true,
+      "path": "select/02_永遠に続く日々の階段を_平井_大_HIRAIDAI.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "永遠に続く日々の階段を",
+      "artist": "平井大",
+      "has_synced": false,
+      "path": "select/pl_01_永遠に続く日々の階段を_平井大.txt"
+    }
+  ]
+}
